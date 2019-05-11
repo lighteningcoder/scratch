@@ -4,3 +4,10 @@ function sayHello() {
 
 
 sayHello();
+
+
+function sayname(name) {
+    console.log(name);
+}
+
+sayname("simpleCoder");
